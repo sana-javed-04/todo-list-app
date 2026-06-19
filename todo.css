@@ -85,7 +85,7 @@ ul li::before{
     position: absolute;
     top: 13px;
     left: 2px;
-    background-image:url(/WEBSITE/img/unchecked-17-512.png) ;
+    background-image:url(unchecked-17-512.png) ;
     height: 1.2rem;
     width: 1.2rem;
     background-size: cover;
@@ -97,7 +97,7 @@ li.chkd{
 }
 
 li.chkd::before{
-    background-image:url(/WEBSITE/img/Green-check-mark-icon-on-transparent-background-PNG.png) ;
+    background-image:url(Green-check-mark-icon-on-transparent-background-PNG.png) ;
     height: 1.6rem;
     width: 1.6rem;
     top: 8px;
